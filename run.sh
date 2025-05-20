@@ -14,7 +14,7 @@ python src/main.py \
     --epochs 100 \
     --lr 0.001 \
     --early_stopping 10 \
-    --seed 42 \
+    --seed 36494291 \
     --output_dir output
 
 echo "Execution complete! Results saved to the 'output' directory."
